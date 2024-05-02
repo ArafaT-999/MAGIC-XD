@@ -1,1 +1,1 @@
-import MAGIC
+import magic.cpython-311.so
